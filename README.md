@@ -1,2 +1,3 @@
 # PohPoh
-Type description about your project
+Type descrtiption about your project
+test repo for git commands demonstration
